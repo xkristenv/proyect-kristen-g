@@ -1,0 +1,17 @@
+body {
+  background: hsl(0, 0%, 100%);
+  font-family: "Montserrat", sans-serif;
+  color: hsl(35, 100%, 62%);
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: "Nickainley", sans-serif;
+}
+
+h1 {
+  font-family: "Labor Union", sans-serif;
+}
+
+/*# sourceMappingURL=main.css.map */
